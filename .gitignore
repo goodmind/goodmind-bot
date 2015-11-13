@@ -1,0 +1,6 @@
+node_modules
+dist
+var/rethinkdb_data
+var/log
+.idea
+procfile.json

@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "id": null,
+    "first_name": null,
+    "username": null
+  },
+  "log": {
+    "path": "/path/to/bot/var/log/messages/"
+  }
+}
